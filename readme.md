@@ -1,11 +1,11 @@
-#### nScopeGui
+# nScopeGui
 
-###### Required
+## Required
 
 * Sliders and text input for frequency & amplitude
 * Buttons to turn on/off channels, etc.
 * Graph with controls
 
-###### Optional
+## Optional
 
 * Power meter
